@@ -1,0 +1,55 @@
+body{
+    background-color: white;
+    /* overflow: scroll; */
+}
+.raw img{
+    /* background-size: cover; */
+    height: 600px;
+    width: 2020px;
+   
+    
+}
+.raw{
+    /* display: inline; */
+   
+}
+.asd{
+    font-size: 30px
+}
+.mn{
+    color: red;
+}
+.cn{
+    color: white;
+    background-color: blue;
+}
+.op{
+    float: left;
+    width: 600px;
+    margin-right: 50px;
+}
+.blue{
+    color: blue;
+}
+.aa{
+    margin-left: 10px;
+    display: block;
+}
+.aa h2{
+    margin-top: -30px;
+    margin-left: 8px;
+    
+}
+.aa h1{
+    font-size: 45px;
+    color: blue;
+}
+body{
+    background-color:beige;
+    margin: 0;
+}
+.cn{
+    padding-top: 6px;
+    padding-bottom: 6px;
+    padding-left: 10px;
+}
